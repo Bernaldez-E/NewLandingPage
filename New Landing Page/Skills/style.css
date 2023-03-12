@@ -1,0 +1,37 @@
+body {
+background-color: rgb(200,200,200);}
+h1{
+text-align:center;
+font-style: oblique;
+font-weight: bold;
+font-family: Courier, "Courier New", Monaco, monospace;
+text-transform: capitalize;
+color:navy !important;
+margin-top: 1em;
+margin-bottom: 1em;
+}
+
+h3{
+text-align:center;
+font-family: Arial, Helvetica, sans-serif;
+text-transform: uppercase;
+color:DarkCyan;
+}
+
+p{
+text-align:justify;
+font-family: Verdana, Tahoma, Sans-serif;
+color:black;
+}
+
+ul.a {
+  padding: 10px;
+}
+
+ul.b {
+  padding: 10px;
+}
+
+ul.c {
+  padding: 10px;
+}
